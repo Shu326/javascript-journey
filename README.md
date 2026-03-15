@@ -37,5 +37,23 @@ Files:
 - `day3.js`
 - `day3-practice.js`
 
+  ## Day 4 - JavaScript Math & Numbers
+
+## Topics Covered
+- Math Operators
+- Math Methods
+- Random Number Generation
+- NaN and Infinity
+
+## Files
+- day4.js
+- day4-practice.js
+
+## What I Learned
+- Performed basic math operations in JavaScript
+- Used Math methods like sqrt, pow, floor, ceil, round, and random
+- Generated random numbers between 1 to 10
+- Understood special values like NaN and Infinity
+
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
