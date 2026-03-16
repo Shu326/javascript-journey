@@ -55,5 +55,25 @@ Files:
 - Generated random numbers between 1 to 10
 - Understood special values like NaN and Infinity
 
+- # Day 5 - JavaScript Comparison Operators
+
+## Topics Covered
+- Comparison Operators
+- Loose vs Strict Equality
+- Loose vs Strict Inequality
+- Relational Operators
+- Truthy and Falsy Values
+
+## Files
+- day5.js
+- day5-practice.js
+
+## What I Learned
+- Used `==` and `===` to compare values
+- Understood the difference between loose and strict comparison
+- Practiced `!=` and `!==`
+- Used `>`, `<`, `>=`, and `<=`
+- Learned how JavaScript handles truthy and falsy values
+
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
