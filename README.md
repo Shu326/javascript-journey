@@ -75,5 +75,24 @@ Files:
 - Used `>`, `<`, `>=`, and `<=`
 - Learned how JavaScript handles truthy and falsy values
 
+## Day 6 - Logical Operators in JavaScript
+Topics Covered:
+- `&&` (AND)
+- `||` (OR)
+- `!` (NOT)
+- Truthy and Falsy values
+- Using logical operators with strings and numbers
+- `!!` (Double NOT for boolean conversion)
+
+Practice:
+- Age check using `&&` and `||`
+- Default name using `||`
+- Login check
+- Tricky logical expressions
+
+Files:
+- `day6.js`
+- `day6-practice.js`
+
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
