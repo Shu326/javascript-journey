@@ -94,5 +94,27 @@ Files:
 - `day6.js`
 - `day6-practice.js`
 
+- ## Day 7 - If Statements in JavaScript
+Topics Covered:
+- `if` statement
+- Simple `if` conditions
+- String check using `if`
+- Number check using `if`
+- User input with `prompt()`
+- Using comparison operators inside `if`
+- Using logical operators (`&&`, `||`) with `if`
+- Truthy/Falsy checks in conditions
+
+Practice:
+- Marks check (Pass / Distinction / Outstanding)
+- User input check with name and age
+- Adult / Minor check
+- Welcome message with conditions
+- Tricky truthy value check
+
+Files:
+- `day7.js`
+- `day7-practice.js`
+
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
