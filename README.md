@@ -116,5 +116,25 @@ Files:
 - `day7.js`
 - `day7-practice.js`
 
+- 
+## Day 8 - If Else If Else in JavaScript
+Topics Covered:
+- `if`
+- `else if`
+- `else`
+- Multiple condition checking
+- Branching logic with comparison operators
+- Using `prompt()` with conditional statements
+
+Practice:
+- Grade system using `if else if else`
+- Temperature checker
+- Age category checker (Adult / Teenager / Child)
+- Cart discount logic
+- User input based condition check
+
+Files:
+- `day8.js`
+- `day8-practice.js`
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
