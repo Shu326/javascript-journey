@@ -209,5 +209,23 @@ if(cartAmount >= 500) {
 Files:
 - `day8.js`
 - `day8-practice.js`
+## Day 9 - Switch Statement & Nested If-Else
+
+Topics Covered:
+- Switch Statement
+- Break Statement
+- Default Statement
+- Nested If-Else
+
+Practice:
+- Traffic Light using Switch
+- Calculator using Switch
+- Login check using Nested If-Else
+- Shopping discount using Nested If-Else
+
+Files:
+- `day9.js`
+- `day9-practice.js`
+
 ## Goal
 I am learning JavaScript daily and uploading my practice files to track progress.
